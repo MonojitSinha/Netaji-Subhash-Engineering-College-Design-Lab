@@ -1,0 +1,30 @@
+body {
+  margin-top: 30px;
+  color:rgb(226, 0, 0);
+  background-color:rgb(229, 255, 0);
+}
+.items {
+  width: fit-content;
+  margin: 0px auto;
+  opacity: 0.8;
+}
+.card {
+  width: 12rem;
+}
+.card {
+  display: inline-block;
+  margin: 0 10px;
+
+  
+}
+
+.card-input {
+  width: 3rem;
+}
+.chkout {
+  margin: 0 auto;
+}
+
+#bd1:hover{
+  background-color:red;
+}
