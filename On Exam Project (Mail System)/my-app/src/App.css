@@ -1,0 +1,20 @@
+body {
+  margin-top: 30px;
+}
+.items {
+  width: fit-content;
+  margin: 0px auto;
+}
+.card {
+  width: 12rem;
+}
+.card {
+  display: inline-block;
+  margin: 0 10px;
+}
+.card-input {
+  width: 3rem;
+}
+.chkout {
+  margin: 0 auto;
+}
